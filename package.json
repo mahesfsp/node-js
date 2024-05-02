@@ -1,0 +1,11 @@
+{
+  "name": "my-node",
+  "version": "1.0.0",
+  "description": "This is new node js course",
+  "main": "app.js",
+  "scripts": {
+    "dev" : "node app.js"
+  },
+  "author": "maheswari",
+  "license": "ISC"
+}
